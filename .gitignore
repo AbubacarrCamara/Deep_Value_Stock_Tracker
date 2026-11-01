@@ -1,0 +1,11 @@
+# Download financial data
+
+data/raw/*
+data /processed/*
+data/results/*
+.venv/
+
+# Keep directory structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/results/.gitkeep
